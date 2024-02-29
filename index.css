@@ -38,4 +38,8 @@ body {
     padding-top: 15px;
 }
 
+#score {
+    display: inline;
+}
+
 
