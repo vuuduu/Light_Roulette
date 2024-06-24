@@ -1,4 +1,4 @@
-name: First flow Demo
+name: First Flow Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions
 on: [ push ]
 
