@@ -4,7 +4,7 @@ on: [push]
 
 jobs: 
   First-Flow-Demo:
-    runs-on: ubuntu-lastest
+    runs-on: ubuntu-latest
     steps:
       - run: echo "Start of pipeline"
       - run: ls -la
